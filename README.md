@@ -33,4 +33,5 @@ print("                  别人笑我忒疯癫，我笑自己命太贱；  ")
 print("                  不见满街漂亮妹，哪个归得程序员？")
 ```
 
-[readme.md规范文档](https://blog.csdn.net/qq_39098813/article/details/82315159)
+[markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
+
