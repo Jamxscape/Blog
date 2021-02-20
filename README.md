@@ -33,7 +33,7 @@ print("                  别人笑我忒疯癫，我笑自己命太贱；  ")
 print("                  不见满街漂亮妹，哪个归得程序员？")
 ```
 
-[markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
+[markdown教程](https://www.runoob.com/markdown/md-tutorial.html) [markdown页内跳转](https://www.cnblogs.com/JohnTsai/p/4027229.html)
 
 [markdown在线编辑工具](https://pandao.github.io/editor.md/)
 
