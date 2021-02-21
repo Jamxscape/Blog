@@ -1,5 +1,49 @@
 # 记录 个人编程过程中的问题，读书记录等
 
+1. # 编程语言
+
+   ## [C](https://github.com/Jamxscape/Blog/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/c.md)
+
+   ## [C++](https://github.com/Jamxscape/Blog/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp.md)
+
+   ## [python](https://github.com/Jamxscape/Blog/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python.md)
+
+   ## [java](https://github.com/Jamxscape/Blog/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/java.md)
+
+2. # 常用知识
+
+   ## 常用文档格式
+
+   ## Mac知识
+
+   ## Windows知识
+
+   ## Linux知识
+
+3. # 电脑装机
+
+   ## Mac装机
+
+   ## Windows装机
+
+4. # 项目问题
+
+   
+
+5. # 读书笔记
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 print("                            _ooOoo_  ")
 print("                           o8888888o  ")
