@@ -12,7 +12,7 @@
 
 ### <a name="1.1">从另一个文件中引用另外的类函数</a>
 
-![1.1](/Users/mayuan/Desktop/Hi-Story/github_blog/Blog/language/img/python3_1_1.png)
+![1.1](img/python3_1_1.png)
 
 关系为CSS_Position继承CSS，然后getdata.py要引用CSS__Position这个类
 
