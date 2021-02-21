@@ -2,13 +2,13 @@
 
 1. # 编程语言
 
-   ## [C](https://github.com/Jamxscape/Blog/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/c.md)
+   ## [C](https://github.com/Jamxscape/Blog/blob/master/language/c.md)
 
-   ## [C++](https://github.com/Jamxscape/Blog/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp.md)
+   ## [C++](https://github.com/Jamxscape/Blog/blob/master/language/cpp.md)
 
-   ## [python](https://github.com/Jamxscape/Blog/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python.md)
+   ## [python](https://github.com/Jamxscape/Blog/blob/master/language/python.md)
 
-   ## [java](https://github.com/Jamxscape/Blog/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/java.md)
+   ## [java](https://github.com/Jamxscape/Blog/blob/master/language/java.md)
 
 2. # 常用知识
 
