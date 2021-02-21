@@ -6,7 +6,7 @@
 
    ## [C++](https://github.com/Jamxscape/Blog/blob/master/language/cpp.md)
 
-   ## [python](https://github.com/Jamxscape/Blog/blob/master/language/python.md)
+   ## [python3](https://github.com/Jamxscape/Blog/blob/master/language/python3.md)
 
    ## [java](https://github.com/Jamxscape/Blog/blob/master/language/java.md)
 
