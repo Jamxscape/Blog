@@ -1,6 +1,6 @@
 # 记录 个人编程过程中的问题，读书记录等
 
-1. # 编程语言
+# 编程语言
 
    ## [C](https://github.com/Jamxscape/Blog/blob/master/language/c.md)
 
@@ -10,27 +10,33 @@
 
    ## [java](https://github.com/Jamxscape/Blog/blob/master/language/java.md)
 
-2. # 常用知识
+# 常用知识
 
-   ## 常用文档格式
+## 常用文件
 
-   ## Mac知识
+## Mac知识
 
-   ## Windows知识
+## Windows知识
 
-   ## Linux知识
+## Linux知识
 
-3. # 电脑装机
+# 常用项目或软件
 
-   ## Mac装机
+## 项目
 
-   ## Windows装机
+## 软件
 
-4. # 项目问题
+# 电脑装机
 
-   
+## Mac装机
 
-5. # 读书笔记
+## Windows装机
+
+# 项目问题
+
+
+
+# 读书笔记
 
 
 
