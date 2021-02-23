@@ -16,6 +16,8 @@
 
 ### <a name="1.1">VMware解压VMware tools解压不了</a>
 
+直接把压缩文件托放在指定解压的文件内，在此文件内解压
+
 ## <a name="2">pycharm</a>
 
 ### <a name="2.1">pycharm汉化</a>
