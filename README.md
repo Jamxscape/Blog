@@ -1,46 +1,54 @@
 # 记录 个人编程过程中的问题，读书记录等
 
-# 编程语言
+# [编程语言](language/)
 
-   ## [C](https://github.com/Jamxscape/Blog/blob/master/language/c.md)
+   ## [C](language/c.md)
 
-   ## [C++](https://github.com/Jamxscape/Blog/blob/master/language/cpp.md)
+   ## [C++](language/cpp.md)
 
-   ## [python3](https://github.com/Jamxscape/Blog/blob/master/language/python3.md)
+   ## [python3](language/python3.md)
 
-   ## [java](https://github.com/Jamxscape/Blog/blob/master/language/java.md)
+   ## [java](language/java.md)
 
-# 常用知识
+# [常用知识](common/)
 
-## 常用文件
+## [常用文件](common/common_file.md)
 
-## Mac知识
+## [Mac知识](common/common_mac.md)
 
-## Windows知识
+## [Windows知识](common/common_win.md)
 
-## Linux知识
+## [Linux知识](common/common_linux.md)
 
-## Github
+## [Github](common/common_github.md)
 
-# 常用项目或软件
+## [常识类](common/common_sense.md)
+
+# [常用项目或软件](projection&software)
 
 ## [项目](projection&software/projection.md)
 
-## 软件
+## [软件](projection&software/software.md)
 
-# 电脑装机
+# [电脑装机](installation)
 
-## Mac装机
+## [Mac装机](installation/installation_mac.md)
 
-## Windows装机
+## [Windows装机](installation/installation_win.md)
 
-# 个人项目
+# [个人项目](personalprojection/)
 
+## [Android](personalprojection/android.md)
 
+## [iOS](personalprojection/ios.md)
 
-# 读书笔记
+## [Web](personalprojection/web.md)
 
+## [微信小程序](personalprojection/wechat_miniapp.md)
 
+# [读书笔记](notes/)
+
+# [Markdown模板](markdownmodel/markdown.md)
 
 
 
