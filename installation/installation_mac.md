@@ -314,41 +314,119 @@ JDK>JRE>JVM JDK里包含了所有Java开发的包，不需要再重新下载别�
 
 <img src="img/java_1.png"/>
 
-[🔝](#top)
+验证安装成功：
 
-### <a name ="2.4">2.4内容</a>
+![java_2](img/java_2.png)
 
-[🔝](#top)
-
-### <a name ="2.5">2.5内容</a>
+javac验证 用法: javac <options> <source files>
 
 [🔝](#top)
 
-### <a name ="2.6">2.6内容</a>
+### <a name ="2.4">Python</a>
+
+Python python-3.7.5-macosx10.9 
+
+![python_1](img/python_1.png)
+
+![python_2](img/python_2.png)
+
+![python_3](img/python_3.png)
+
+测试安装是否成功：
+
+![python_4](img/python_4.png)
+
+
 
 [🔝](#top)
 
-### <a name ="2.7">2.7内容</a>
+### <a name ="2.5">SQL</a>
+
+SQL 数据库 mysql-cluster-8.0.14-dmr-macos10.14-x86_64
 
 [🔝](#top)
 
-### <a name ="2.8">2.8内容</a>
+### <a name ="2.6">Git</a>
+
+![git_1](img/git_1.png)
+
+Git 指令  Xcode 里自带Git（应该是）,或者单独去官网安装
 
 [🔝](#top)
 
-### <a name ="2.9">2.9内容</a>
+### <a name ="2.7">**HomeBrew**</a>
+
+一款下载工具  [安装教程](https://brew.sh/index_zh-cn) 
+
+安装指令
+
+```sh
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+验证安装成功 ![homebrew_1](img/homebrew_1.png)
+
+
 
 [🔝](#top)
 
-### <a name ="2.10">2.10内容</a>
+### <a name ="2.8">**解决GitHub下载慢的问题**</a>
+
+[方案](https://blog.csdn.net/qq_33144323/article/details/100592325)
+
+![github_1](img/github_1.png)
+
+![github_2](img/github_2.png)
 
 [🔝](#top)
 
-## <a name ="3">3内容</a>
+### <a name ="2.9">pip 下载慢解决</a>
+
+[地址](https://blog.csdn.net/qq_38161040/article/details/100674939)
+
+使用 vim编辑更改文件
+
+更改至国内镜像源，阿里或者清华镜像
 
 [🔝](#top)
 
-### <a name ="3.1">3.1内容</a>
+### <a name ="2.10">cocopad</a>
+
+[下载](https://juejin.im/entry/6844903731008536590)
+
+[🔝](#top)
+
+## <a name ="3">软件</a>
+
+[🔝](#top)
+
+### <a name ="3.1">必要软件清单</a>
+
+###### 1>office全家桶 Office_16.17.18090901_Installer
+
+###### 2>Adobe全家桶必须要安装的
+
+Adobe Acrobat //PDF阅读器
+
+Photoshop   //图片修改
+
+3> 
+
+######     Chrome 登录谷歌账号，将必要插件安装上以后，重新安装油猴插件，油猴插件主要包含了百度谷歌和CSDN GitHub排版，阅读模式，网页复制粘贴限制，视频播放优化，快进倍速
+
+######     HandShake //安卓文件传输软件
+
+######     Android File Transfer //安卓传输文件，由谷歌开发，相对来说比较稳定
+
+######     Pycharm //开发Python必须软件
+
+######     ShadowSock 科学上网
+
+​    网易云音乐
+
+​    百度网盘
+
+​    VSCode 下载必要的代码格式，轻度开发
 
 [🔝](#top)
 

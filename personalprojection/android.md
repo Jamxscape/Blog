@@ -460,7 +460,7 @@ db.close();
 
 点击箭头所示选择Invalidate and Restart：
 
-![](/Users/mayuan/Desktop/Hi-Story/github_blog/Blog/personalprojection/img/android_1_2.png)
+![](img/android_1_2.png)
 
 重启之后发现报错解决。
 
