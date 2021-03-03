@@ -20,11 +20,11 @@
 
 关系为CSS_Position继承CSS，然后getdata.py要引用CSS__Position这个类
 
-问题出在CSS_Position中，由于getdata.py想要引用 from CSS.CSS_P import CSSP
+问题出在CSS_Position中，由于getdata.py想要引用 `from CSS.CSS_P import CSSP`
 
 没什么问题，但是CSS_P 在引用CSS.py时，使用了相对路径，使得进一步getdata引用过程中仍然使用相对路径，故出错
 
-应该直接使用from CSS.CSS import CSS 这样的绝对路径 [参考](https://blog.csdn.net/sinat_27693393/article/details/70037718)
+应该直接使用`from CSS.CSS import CSS` 这样的绝对路径 [参考](https://blog.csdn.net/sinat_27693393/article/details/70037718)
 
 ### <a name="1.2">安装2与3共存</a> (win下)
 
