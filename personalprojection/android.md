@@ -456,7 +456,7 @@ db.close();
 
 点击file
 
-![andriod_1_1](/Users/mayuan/Desktop/Hi-Story/github_blog/Blog/personalprojection/img/andriod_1_1.png)
+![andriod_1_1](img/andriod_1_1.png)
 
 点击箭头所示选择Invalidate and Restart：
 
