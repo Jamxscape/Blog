@@ -312,7 +312,7 @@ C++ C 直接下载xcode后，完美集成以上两种语言的环境
 
 JDK>JRE>JVM JDK里包含了所有Java开发的包，不需要再重新下载别的其他文件 
 
-![image-20210303172525267](/Users/mayuan/Library/Application Support/typora-user-images/image-20210303172525267.png)
+<img src="img/java_1.png" alt="java_1" style="zoom:48%;" />
 
 [🔝](#top)
 
