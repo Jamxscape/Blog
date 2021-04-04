@@ -1,54 +1,54 @@
 # 记录 个人编程过程中的问题，读书记录等
 
-# [编程语言](language/)
+#### [1.编程语言](language/)
 
-   ## [C](language/c.md)
+   ##### [C](language/c.md)
 
-   ## [C++](language/cpp.md)
+   ##### [C++](language/cpp.md)
 
-   ## [python3](language/python3.md)
+   ##### [python3](language/python3.md)
 
-   ## [java](language/java.md)
+   ##### [java](language/java.md)
 
-# [常用知识](common/)
+#### [2.常用知识](common/)
 
-## [常用文件](common/common_file.md)
+##### [常用文件](common/common_file.md)
 
-## [Mac知识](common/common_mac.md)
+##### [Mac知识](common/common_mac.md)
 
-## [Windows知识](common/common_win.md)
+##### [Windows知识](common/common_win.md)
 
-## [Linux知识](common/common_linux.md)
+##### [Linux知识](common/common_linux.md)
 
-## [Github](common/common_github.md)
+##### [Github](common/common_github.md)
 
-## [常识类](common/common_sense.md)
+##### [常识类](common/common_sense.md)
 
-# [常用项目或软件](projection&software)
+#### [3.常用项目或软件](projection&software)
 
-## [项目](projection&software/projection.md)
+##### [项目](projection&software/projection.md)
 
-## [软件](projection&software/software.md)
+##### [软件](projection&software/software.md)
 
-# [电脑装机](installation)
+#### [4. 电脑装机](installation)
 
-## [Mac装机](installation/installation_mac.md)
+##### [Mac装机](installation/installation_mac.md)
 
-## [Windows装机](installation/installation_win.md)
+##### [Windows装机](installation/installation_win.md)
 
-# [个人项目](personalprojection/)
+#### [5.个人项目](personalprojection/)
 
-## [Android](personalprojection/android.md)
+##### [Android](personalprojection/android.md)
 
-## [iOS](personalprojection/ios.md)
+##### [iOS](personalprojection/ios.md)
 
-## [Web](personalprojection/web.md)
+##### [Web](personalprojection/web.md)
 
-## [微信小程序](personalprojection/wechat_miniapp.md)
+##### [微信小程序](personalprojection/wechat_miniapp.md)
 
-# [读书笔记](notes/)
+#### [6.读书笔记](notes/)
 
-# [Markdown模板](markdownmodel/markdown.md)
+#### [7.Markdown模板](markdownmodel/markdown.md)
 
 
 
@@ -98,3 +98,6 @@ print("                  不见满街漂亮妹，哪个归得程序员？")
 [markdown在线编辑工具](https://pandao.github.io/editor.md/)
 
 [markdown本地编辑工具](https://typora.io/)) // 这个工具好用
+
+多端传文件用的工具 [vivo互传](http://pc.vivo.com/#backup)
+
