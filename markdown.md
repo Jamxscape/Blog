@@ -47,9 +47,15 @@
 <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
 ```
 
+图片格式
+
+```html
+<img src="drawing.jpg" alt="drawing" width="200"/>
+<img src="drawing.jpg" alt="drawing" style="width:200px;"/>
+```
 
 
-/Users/mayuan/Desktop/Hi-Story/github_blog/Blog/MDModel/venv/bin/python /Users/mayuan/Desktop/Hi-Story/github_blog/Blog/MDModel/main.py
+
 [TOC]
 ###### 生成的模板，欲生成更多自定义模板参考MDModel项目，是由python写成，运行简单。
 
