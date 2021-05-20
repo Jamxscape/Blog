@@ -428,6 +428,8 @@ Photoshop   //图片修改
 
 ​    VSCode 下载必要的代码格式，轻度开发
 
+[paste粘贴板软件]( https://apps.apple.com/cn/app/paste-clipboard-tool/id1554034946?mt=12)
+
 [🔝](#top)
 
 ### <a name ="3.2">3.2内容</a>
